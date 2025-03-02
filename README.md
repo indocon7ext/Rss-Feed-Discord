@@ -18,8 +18,8 @@ Ensure you have **Python 3.8+** installed.
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/discord-rss-bot.git
-cd discord-rss-bot
+git clone https://github.com/indocon7ext/Rss-Feed-Discord
+cd Rss-Feed-Discord
 ```
 
 ### 3️⃣ Install Dependencies
