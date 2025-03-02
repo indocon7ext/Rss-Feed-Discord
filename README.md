@@ -45,10 +45,12 @@ Example `config.json`:
 ```json
 {
   "webhooks": {
-    "News": "https://discord.com/api/webhooks/your-webhook-url"
+    "World News": "https://discord.com/api/webhooks/your-webhook-url",
+    "Crypto News": "https://discord.com/api/webhooks/your-webhook-url"
   },
   "rss_feeds": {
-    "News": ["https://rss.nytimes.com/services/xml/rss/nyt/World.xml"]
+    " World News": ["https://rss.nytimes.com/services/xml/rss/nyt/World.xml"],
+    " Crypto News" :["https://cryptonews.com/rss/crypto.xml"]
   },
   "fetch_interval": 1800,
   "rss_delay": 60
