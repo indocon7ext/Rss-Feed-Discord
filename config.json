@@ -1,0 +1,16 @@
+{
+  "webhooks": {
+    "New York Times": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "Coindesk": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "Forex Live": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "Antara": "YOUR_DISCORD_WEBHOOK_URL_HERE"
+  },
+  "rss_feeds": {
+    "New York Times": ["https://rss.nytimes.com/services/xml/rss/nyt/World.xml"],
+    "Coindesk": ["https://www.coindesk.com/arc/outboundfeeds/rss"],
+    "Forex Live": ["https://www.forexlive.com/feed/news"],
+    "Antara": ["https://www.antaranews.com/rss/dunia-asean.xml"]
+  },
+  "fetch_interval": 1800,
+  "rss_delay": 60  
+}

@@ -1,0 +1,5 @@
+discord.py
+feedparser
+aiohttp
+asyncio
+python-dotenv
