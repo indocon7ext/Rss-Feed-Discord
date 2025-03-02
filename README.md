@@ -94,3 +94,9 @@ If you need help, create an issue in the repository or reach out via Discord.
 
 🚀 **Made with ❤️ for the open-source community!**
 
+---
+![image](https://github.com/user-attachments/assets/10bf9112-5bd6-49e1-8995-8629a078fc3c)
+
+![image](https://github.com/user-attachments/assets/7cc24543-55ad-40e3-8611-4e5b805e2c4c)
+![image](https://github.com/user-attachments/assets/a0c3896d-a67e-4ce6-865f-d320ded581fe)
+
